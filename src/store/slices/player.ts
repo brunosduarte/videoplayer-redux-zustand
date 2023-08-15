@@ -88,6 +88,5 @@ export const useCurrentLesson = () => {
 
     return { currentModule, currentLesson }
   })
-
 }
 
